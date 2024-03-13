@@ -130,7 +130,7 @@ background-color: rgba(0, 225, 0, 0.6);
 </section>
 <p>
 	<a href="https://wacca.tokyo" target="_blank"><h4>「wacca」</h4></a>
-	<a href="http://www.logic-of.com/ikebukuro/"><h4>一時会会場、「ロジック」</h4></a>
+	<a href="http://www.logic-of.com/ikebukuro/" target="_blank"><h4>「ロジック」</h4></a>
 	<!--<a href="https://torokoid.github.io/jizou/"><h4>二次会会場、事前視察「大馬鹿地蔵」</h4></a></p><br>-->
 <!--
 <a href="https://tabelog.com/tokyo/A1305/A130501/13145399/party/" target="_blank">、　食べログリンク</a></span>
