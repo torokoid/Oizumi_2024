@@ -138,7 +138,7 @@ background-color: rgba(0, 225, 0, 0.6);
 	<br><br>
 -->
 
-<a href="mailto:satoshi_hada@jp.honda?body=Message%20body%20text%20">出欠確認メール</a>
+<a href="mailto:satoshi_hada@jp.honda?body=お名前（組）%20<br>1次回出欠%20<br>2次回出欠%20<br>コメントなど%20"><span class="red">出欠確認クリックしてメール作成願います。</span></a>
 
 <!--
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
