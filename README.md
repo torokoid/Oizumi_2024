@@ -92,7 +92,7 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <p align="left"> <span class="yellow">&nbsp;祝！65歳</span></p>
 <!--<p><h2><a href="https://torokoid.github.io/list">クラス会名簿リンク</a></h2></p>-->
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br>
 <p align="left"> <img src="oizumi.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2024年6月15日、65歳のお祝い@池袋 !!!</marquee></span></h2>
@@ -137,6 +137,8 @@ background-color: rgba(0, 225, 0, 0.6);
 <span class="white">サラダ、パスタ、ピザなどで税込2,000円で２１人なので貸切です。<br>コーヒーを付けると＋300円です。
 	<br><br>
 -->
+
+<a href="mailto:satoshi_hada@jp.honda?body=Message%20body%20text%20">出欠確認メール</a>
 
 <!--
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
