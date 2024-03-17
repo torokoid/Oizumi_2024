@@ -130,7 +130,7 @@ background-color: rgba(0, 225, 0, 0.6);
 </section>
 
 
-
+<h4>１次会会場、wacca</h4>
 <p>
 	<a href="https://wacca.tokyo" target="_blank"><img src="wacca.png" alt="サンプル画像" width="900" /></a>
 	<a href="https://wacca.tokyo" target="_blank"><h4>「wacca」</h4></a>
