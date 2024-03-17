@@ -141,8 +141,8 @@ background-color: rgba(0, 225, 0, 0.6);
 <span class="white">サラダ、パスタ、ピザなどで税込2,000円で２１人なので貸切です。<br>コーヒーを付けると＋300円です。
 	<br><br>
 -->
-
-<a href="mailto:arugota@gmail.com,eto_mas@yahoo.co.jp,satoshi_hada@jp.honda?subject=30期同期会&body=■お名前(組)：%0D%0A■1次回出欠：%0D%0A■2次回出欠：%0D%0A■コメントなど："><span class="yellow">出欠確認<blink>・・・クリックしてメール作成願います。</blink></span></a>
+<h1>
+<a href="mailto:arugota@gmail.com,eto_mas@yahoo.co.jp,satoshi_hada@jp.honda?subject=30期同期会&body=■お名前(組)：%0D%0A■1次回出欠：%0D%0A■2次回出欠：%0D%0A■コメントなど："><span class="yellow">出欠確認<blink>・・・クリックしてメール作成願います。</blink></span></a></h1>
 
 <!--
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
