@@ -125,6 +125,7 @@ background-color: rgba(0, 225, 0, 0.6);
 16:00~18:30（2時間半）<br>
 【会費】<br>
 4.000円<br>
+※二次会から参加も可能です。<br>
 <!--４月27日(土)時点参加人数<br>
 1組12人、2組10人、3組8人、4組9人、5組7人、6組10人、7組21人、8組15人、9組14人、合計106人です。<br>
 7組の21人は驚異的ですが、どのクラスもまんべんなくいるのでうれしい限りです。<br>
@@ -140,14 +141,16 @@ background-color: rgba(0, 225, 0, 0.6);
 	<a href="https://wacca.tokyo" target="_blank"><h4>「wacca」</h4></a>
 	<a href="http://www.logic-of.com/ikebukuro/" target="_blank"><h4>「ロジック」</h4></a>
 	<!--<a href="https://torokoid.github.io/jizou/"><h4>二次会会場、事前視察「大馬鹿地蔵」</h4></a></p><br>-->
+
+ 
 <!--
 <a href="https://tabelog.com/tokyo/A1305/A130501/13145399/party/" target="_blank">、　食べログリンク</a></span>
 <span class="white">サラダ、パスタ、ピザなどで税込2,000円で２１人なので貸切です。<br>コーヒーを付けると＋300円です。
 	<br><br>
--->
+
 <h1>
 <a href="mailto:arugota@gmail.com,eto_mas@yahoo.co.jp,satoshi_hada@jp.honda?subject=30期同期会&body=■お名前(組)：%0D%0A■1次回出欠：%0D%0A■2次回出欠：%0D%0A■コメントなど："><span class="yellow">出欠確認<blink>・・・クリックしてメール作成願います。</blink></span></a></h1>
-
+-->
 <!--
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <section><span class="blue">
