@@ -113,11 +113,11 @@ background-color: rgba(0, 225, 0, 0.6);
 2024年6月15日（土）<br>
 13:30〜15:30（2時間）<br>
 受付　13:00〜<br>
-【会場】<br>
+【一次会】<br><br>
 池袋東口「池袋wacca<br>
 5階　ロジック」<br>
 【会費】<br>
-5.000円<br>
+5.000円<br><br>
 【二次会】<br>
 池袋西口　ロマンス通り<br>
 （池袋ロサ会館手前）<br>
@@ -141,6 +141,9 @@ background-color: rgba(0, 225, 0, 0.6);
 	<a href="https://wacca.tokyo" target="_blank"><h4>「wacca」</h4></a>
 	<a href="http://www.logic-of.com/ikebukuro/" target="_blank"><h4>「ロジック」</h4></a>
 	<!--<a href="https://torokoid.github.io/jizou/"><h4>二次会会場、事前視察「大馬鹿地蔵」</h4></a></p><br>-->
+<h4>２次会会場、ミライザカ</h4>
+<p>
+	<a href="https://miraizaka.com/ikebukuronishiguchi/" target="_blank"><img src="mirai.png" alt="サンプル画像" width="900" /></a>
 
  
 <!--
