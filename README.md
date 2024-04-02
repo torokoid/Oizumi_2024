@@ -85,10 +85,10 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 大泉高校、３０期同窓会HP !!!</marquee></span></h1>
 <p><a href="https://torokoid.github.io/home">Home</a>><a href="https://torokoid.github.io/oizumi">2019年同期会</a>><a href="https://torokoid.github.io/kanreki">還暦祝い＠池袋</a>><a href="https://torokoid.github.io/shiba">写真集</a>>>><a href="https://torokoid.github.io/oizumi_jigo"><span class="blinking">鹿児島支部情報</span></a><br>2024,同期会</p>
-
+<!--
 <p class="note">
   モバイル端末をお使いの場合は、画面を横向きにするとより見やすくご覧頂けます。
-</p>
+</p>-->
 
 <p align="left"> <span class="yellow">&nbsp;祝！65歳</span></p>
 <!--<p><h2><a href="https://torokoid.github.io/list">クラス会名簿リンク</a></h2></p>-->
