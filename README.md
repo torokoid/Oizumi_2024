@@ -146,6 +146,16 @@ background-color: rgba(0, 225, 0, 0.6);
 <p>
 	<a href="https://miraizaka.com/ikebukuronishiguchi/" target="_blank"><img src="mirai.png" alt="サンプル画像" width="900" /></a>
 
+
+<h2>大泉高校の桜---4月6日、サッカー部OB会にて増子さん撮影</h2>
+<a href="20240406_001.JPG" data-lightbox="abc"><img src="20240406_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240406_002.JPG" data-lightbox="abc"><img src="20240406_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240406_003.JPG" data-lightbox="abc"><img src="20240406_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240406_004.JPG" data-lightbox="abc"><img src="20240406_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240406_005.JPG" data-lightbox="abc"><img src="20240406_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240406_006.JPG" data-lightbox="abc"><img src="20240406_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240406_007.JPG" data-lightbox="abc"><img src="20240406_007.JPG" alt="サンプル画像" width="900" /></a>
+
  
 <!--
 <a href="https://tabelog.com/tokyo/A1305/A130501/13145399/party/" target="_blank">、　食べログリンク</a></span>
