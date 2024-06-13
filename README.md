@@ -94,6 +94,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <!--<p><h2><a href="https://torokoid.github.io/list">クラス会名簿リンク</a></h2></p>-->
 <br><br>
 <p align="left"> <img src="oizumi.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="eight"> <img src="nikon.JPG" alt="写真アップ用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2024年6月15日、65歳のお祝い@池袋 !!!</marquee></span></h2>
 <!--
