@@ -95,7 +95,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <br><br>
 <p align="left"> <img src="oizumi.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="left"> <img src="nikon.png" alt="写真アップ用QRコード" width="100">写真アップ用QRコード</p>
-<a href="https://img.gg/a169gKx">QRコードのリンク先</a>
+<a href="https://img.gg/a169gKx">写真アップ用QRコードのリンク先、クリックで飛びます</a>
 
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2024年6月15日、65歳のお祝い@池袋 !!!</marquee></span></h2>
