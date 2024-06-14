@@ -83,7 +83,7 @@ background-color: rgba(0, 225, 0, 0.6);
 </head>
 <body onload="alert('65歳まで、よく頑張りました！　まだまだ元気に〜〜(^o^)/')" onunload="alert('再会の時まで、元気でお過ごしくださいませ〜(^o^)/')">
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! 大泉高校、３０期同窓会HP !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2024/06/15 大泉高校、３０期同窓会HP !!!</marquee></span></h1>
 <p><a href="https://torokoid.github.io/home">Home</a>><a href="https://torokoid.github.io/oizumi">2019年同期会</a>><a href="https://torokoid.github.io/kanreki">還暦祝い＠池袋</a>><a href="https://torokoid.github.io/shiba">写真集</a>>>><a href="https://torokoid.github.io/oizumi_jigo"><span class="blinking">鹿児島支部情報</span></a><br>2024,同期会</p>
 <!--
 <p class="note">
