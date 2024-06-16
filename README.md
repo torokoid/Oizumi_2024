@@ -149,6 +149,90 @@ background-color: rgba(0, 225, 0, 0.6);
 <p>
 	<a href="https://miraizaka.com/ikebukuronishiguchi/" target="_blank"><img src="mirai.png" alt="サンプル画像" width="900" /></a>
 
+<br><br><br><br>
+<h2>当日早々にLINE共有された画像集です<br>撮影係を名乗り出てくれた田中正人さんの画像は大量につき別ページを立ち上げてあります。</h2>
+
+<a href="20240615_001.JPG" data-lightbox="abc"><img src="20240615_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_002.JPG" data-lightbox="abc"><img src="20240615_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_003.JPG" data-lightbox="abc"><img src="20240615_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_004.JPG" data-lightbox="abc"><img src="20240615_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_005.JPG" data-lightbox="abc"><img src="20240615_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_006.JPG" data-lightbox="abc"><img src="20240615_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_007.JPG" data-lightbox="abc"><img src="20240615_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_008.JPG" data-lightbox="abc"><img src="20240615_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_009.JPG" data-lightbox="abc"><img src="20240615_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_010.JPG" data-lightbox="abc"><img src="20240615_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_011.JPG" data-lightbox="abc"><img src="20240615_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_012.JPG" data-lightbox="abc"><img src="20240615_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_013.JPG" data-lightbox="abc"><img src="20240615_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_014.JPG" data-lightbox="abc"><img src="20240615_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_015.JPG" data-lightbox="abc"><img src="20240615_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_016.JPG" data-lightbox="abc"><img src="20240615_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_017.JPG" data-lightbox="abc"><img src="20240615_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_018.JPG" data-lightbox="abc"><img src="20240615_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_019.JPG" data-lightbox="abc"><img src="20240615_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_020.JPG" data-lightbox="abc"><img src="20240615_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_021.JPG" data-lightbox="abc"><img src="20240615_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_022.JPG" data-lightbox="abc"><img src="20240615_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_023.JPG" data-lightbox="abc"><img src="20240615_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_024.JPG" data-lightbox="abc"><img src="20240615_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_025.JPG" data-lightbox="abc"><img src="20240615_025.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_026.JPG" data-lightbox="abc"><img src="20240615_026.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_027.JPG" data-lightbox="abc"><img src="20240615_027.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_028.JPG" data-lightbox="abc"><img src="20240615_028.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_029.JPG" data-lightbox="abc"><img src="20240615_029.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_030.JPG" data-lightbox="abc"><img src="20240615_030.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_031.JPG" data-lightbox="abc"><img src="20240615_031.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_032.JPG" data-lightbox="abc"><img src="20240615_032.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_033.JPG" data-lightbox="abc"><img src="20240615_033.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_034.JPG" data-lightbox="abc"><img src="20240615_034.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_035.JPG" data-lightbox="abc"><img src="20240615_035.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_036.JPG" data-lightbox="abc"><img src="20240615_036.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_037.JPG" data-lightbox="abc"><img src="20240615_037.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_038.JPG" data-lightbox="abc"><img src="20240615_038.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_039.JPG" data-lightbox="abc"><img src="20240615_039.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_040.JPG" data-lightbox="abc"><img src="20240615_040.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_041.JPG" data-lightbox="abc"><img src="20240615_041.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_042.JPG" data-lightbox="abc"><img src="20240615_042.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_043.JPG" data-lightbox="abc"><img src="20240615_043.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_044.JPG" data-lightbox="abc"><img src="20240615_044.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_045.JPG" data-lightbox="abc"><img src="20240615_045.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_046.JPG" data-lightbox="abc"><img src="20240615_046.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_047.JPG" data-lightbox="abc"><img src="20240615_047.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_048.JPG" data-lightbox="abc"><img src="20240615_048.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_049.JPG" data-lightbox="abc"><img src="20240615_049.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_050.JPG" data-lightbox="abc"><img src="20240615_050.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_051.JPG" data-lightbox="abc"><img src="20240615_051.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_052.JPG" data-lightbox="abc"><img src="20240615_052.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_053.JPG" data-lightbox="abc"><img src="20240615_053.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_054.JPG" data-lightbox="abc"><img src="20240615_054.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_055.JPG" data-lightbox="abc"><img src="20240615_055.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_056.JPG" data-lightbox="abc"><img src="20240615_056.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_057.JPG" data-lightbox="abc"><img src="20240615_057.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_058.JPG" data-lightbox="abc"><img src="20240615_058.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_059.JPG" data-lightbox="abc"><img src="20240615_059.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_060.JPG" data-lightbox="abc"><img src="20240615_060.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_061.JPG" data-lightbox="abc"><img src="20240615_061.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_062.JPG" data-lightbox="abc"><img src="20240615_062.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_063.JPG" data-lightbox="abc"><img src="20240615_063.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_064.JPG" data-lightbox="abc"><img src="20240615_064.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_065.JPG" data-lightbox="abc"><img src="20240615_065.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_066.JPG" data-lightbox="abc"><img src="20240615_066.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_067.JPG" data-lightbox="abc"><img src="20240615_067.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_068.JPG" data-lightbox="abc"><img src="20240615_068.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_069.JPG" data-lightbox="abc"><img src="20240615_069.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_070.JPG" data-lightbox="abc"><img src="20240615_070.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_071.JPG" data-lightbox="abc"><img src="20240615_071.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_072.JPG" data-lightbox="abc"><img src="20240615_072.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_073.JPG" data-lightbox="abc"><img src="20240615_073.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_074.JPG" data-lightbox="abc"><img src="20240615_074.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_075.JPG" data-lightbox="abc"><img src="20240615_075.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_076.JPG" data-lightbox="abc"><img src="20240615_076.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_077.JPG" data-lightbox="abc"><img src="20240615_077.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240615_078.JPG" data-lightbox="abc"><img src="20240615_078.JPG" alt="サンプル画像" width="900" /></a>
+
+ 
+
 
 <h2>大泉高校の桜---4月6日、サッカー部OB会にて増子さん撮影</h2>
 <a href="20240406_001.JPG" data-lightbox="abc"><img src="20240406_001.JPG" alt="サンプル画像" width="900" /></a>
